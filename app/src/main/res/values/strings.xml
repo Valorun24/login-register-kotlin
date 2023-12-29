@@ -1,9 +1,20 @@
 <resources>
     <string name="app_name">regislogin</string>
-    <string name="started_title">Hello You</string>
+    <string name="started_title">Al-QuranKU</string>
     <string name="started_sub_title">
         Nice to meet you, come join!
         <br><b>Login</b> if you already have an account.</br>
         <br><b>Register</b> to get started with the app.</br>
     </string>
+    <string name="login_title">Login to app</string>
+    <string name="login_sub_title"><font color="#00C9B8"> <b>Login</b></font> if you already have a account.
+    </string>
+    <string name="login_email">Your email or username</string>
+    <string name="login_password">Your password</string>
+    <string name="login_forgor_pw">Forgot Password?</string>
+    <string name="login_havent_account">
+        I don\'t have an account
+        <font color="#00C9B8"><b>Register</b></font>
+    </string>
+    <string name="btn_login">LOGIN</string>
 </resources>

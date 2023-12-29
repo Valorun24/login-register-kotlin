@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">regislogin</string>
+    <string name="started_title">Hello You</string>
+    <string name="started_sub_title">
+        Nice to meet you, come join!
+        <br><b>Login</b> if you already have an account.</br>
+        <br><b>Register</b> to get started with the app.</br>
+    </string>
+</resources>
